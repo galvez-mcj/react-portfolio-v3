@@ -1,0 +1,33 @@
+.main-contact {
+    background-color: var(--primary-color);
+    color: var(--white);
+}
+
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right, .left {
+    flex: 1 1 0px;
+}
+
+.contact-text h2 {
+    font-size: 1.75rem;
+}
+
+input,  textarea, button {
+    width: 100%;
+    display: block;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.input-text {
+    display: inline;
+}
+
+button {
+    background-color: var(--black);
+}

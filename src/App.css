@@ -25,6 +25,10 @@
   color: var(--secondary-color);
 }
 
+.display-font {
+  font-family: var(--display-font);
+}
+
 .bold {
   font-weight: bold;
 }

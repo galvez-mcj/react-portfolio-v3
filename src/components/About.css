@@ -3,16 +3,29 @@
     justify-content: space-between;
 }
 
+.right, .left {
+    flex: 1 1 0px;
+}
+
 .right {
-    align-items: center;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .my-img {
     width: 2500px;
 }
 
-.about-container h1{
-    font-family: var(--display-font);
-    font-size: 2em;
+.about-container h2{
+    font-size: 1.75rem;
 }
+
+.about-container h3{
+    font-size: 1.25rem;
+}
+
+
+
 
