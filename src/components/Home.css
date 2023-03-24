@@ -1,0 +1,19 @@
+.home-container h1 {
+    font-size: 3em;
+    font-family: var(--display-font);
+}
+
+.home-container h2 {
+    font-size: 1.75rem;
+    font-family: var(--display-font);
+}
+
+.home-container {
+    
+}
+
+.wave {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}

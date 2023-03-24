@@ -1,0 +1,18 @@
+.about-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right {
+    align-items: center;
+}
+
+.my-img {
+    width: 2500px;
+}
+
+.about-container h1{
+    font-family: var(--display-font);
+    font-size: 2em;
+}
+
