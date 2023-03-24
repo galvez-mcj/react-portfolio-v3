@@ -1,0 +1,16 @@
+
+.nav-bar {
+    margin: 0px 60px;
+    display: flex;
+    justify-content: space-between;
+    flex: 1 1;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-item {
+    margin-right: 20px;
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: rgb(0, 82, 204);
+  --secondary-color: rgb(61, 79, 143);
+  --tertiary-color: rgb(173, 116, 31);
+
+  --white: rgb(255, 255, 255);
+  --black: rgb(0, 0, 0);
+
+  --display-text: 'Fredoka', sans-serif;
+}
+
